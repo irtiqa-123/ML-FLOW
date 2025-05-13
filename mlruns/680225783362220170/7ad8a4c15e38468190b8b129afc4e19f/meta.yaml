@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/680225783362220170/7ad8a4c15e38468190b8b129afc4e19f/artifacts
+end_time: 1747153712268
+entry_point_name: ''
+experiment_id: '680225783362220170'
+lifecycle_stage: active
+run_id: 7ad8a4c15e38468190b8b129afc4e19f
+run_name: dazzling-rat-349
+run_uuid: 7ad8a4c15e38468190b8b129afc4e19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747153695900
+status: 3
+tags: []
+user_id: IRTIQA

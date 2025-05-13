@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dc6b8e555ee641c1b2dd5602a281febf/artifacts
+end_time: 1746718381824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc6b8e555ee641c1b2dd5602a281febf
+run_name: nosy-snake-201
+run_uuid: dc6b8e555ee641c1b2dd5602a281febf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746718381632
+status: 3
+tags: []
+user_id: IRTIQA

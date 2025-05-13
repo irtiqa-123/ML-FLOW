@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd3b3cb0eef2471c8d87e843b9edcc3a/artifacts
+end_time: 1746718455069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd3b3cb0eef2471c8d87e843b9edcc3a
+run_name: bouncy-goat-580
+run_uuid: bd3b3cb0eef2471c8d87e843b9edcc3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746718454933
+status: 3
+tags: []
+user_id: IRTIQA
